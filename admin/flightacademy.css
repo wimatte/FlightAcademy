@@ -1,0 +1,185 @@
+.academytable01 {
+	margin:0px;padding:0px;
+	width:100%;
+	border:1px solid #3178CE;
+	
+	-moz-border-radius-bottomleft:0px;
+	-webkit-border-bottom-left-radius:0px;
+	border-bottom-left-radius:0px;
+	
+	-moz-border-radius-bottomright:0px;
+	-webkit-border-bottom-right-radius:0px;
+	border-bottom-right-radius:0px;
+	
+	-moz-border-radius-topright:0px;
+	-webkit-border-top-right-radius:0px;
+	border-top-right-radius:0px;
+	
+	-moz-border-radius-topleft:0px;
+	-webkit-border-top-left-radius:0px;
+	border-top-left-radius:0px;
+}
+.academytable01 a { color:#438AD8; font-weight:bold; }
+
+.academytable01 table{
+	width:100%;
+	height:100%;
+	margin:0px;padding:0px;
+}.academytable01 tr:last-child td:last-child {
+	-moz-border-radius-bottomright:0px;
+	-webkit-border-bottom-right-radius:0px;
+	border-bottom-right-radius:0px;
+}
+.academytable01 table tr:first-child td:first-child {
+	-moz-border-radius-topleft:0px;
+	-webkit-border-top-left-radius:0px;
+	border-top-left-radius:0px;
+}
+.academytable01 table tr:first-child td:last-child {
+	-moz-border-radius-topright:0px;
+	-webkit-border-top-right-radius:0px;
+	border-top-right-radius:0px;
+}.academytable01 tr:last-child td:first-child{
+	-moz-border-radius-bottomleft:0px;
+	-webkit-border-bottom-left-radius:0px;
+	border-bottom-left-radius:0px;
+}.academytable01 tr:hover td{
+	
+}
+.academytable01 td:first-child{
+	width:25%;
+}
+
+.academytable01 tr:nth-child(odd){ background-color:#F2F2F2; }
+.academytable01 tr:nth-child(even)    { background-color:#ffffff; }.academytable01 td{
+	vertical-align:middle;
+	
+	
+	border:1px solid #c4c4c4;
+	border-width:0px 1px 1px 0px;
+	text-align:left;
+	padding:7px;
+	font-size:10px;
+	font-family:Arial;
+	font-weight:normal;
+	color:#000000;
+}.academytable01 tr:last-child td{
+	border-width:0px 1px 0px 0px;
+}.academytable01 tr td:last-child{
+	border-width:0px 0px 1px 0px;
+}.academytable01 tr:last-child td:last-child{
+	border-width:0px 0px 0px 0px;
+}
+.academytable01 tr:first-child td{
+
+	background-color:#C00;
+	border:0px solid #c4c4c4;
+	text-align:center;
+	border-width:0px 0px 1px 1px;
+	font-size:14px;
+	font-family:Arial;
+	font-weight:bold;
+	color:#ffffff;
+}
+.academytable01 tr:first-child:hover td{
+	
+	background-color:#78bbe2;
+}
+.academytable01 tr:first-child td:first-child{
+	border-width:0px 0px 1px 0px;
+}
+.academytable01 tr:first-child td:last-child{
+	border-width:0px 0px 1px 1px;
+}
+
+
+.academytable02 {
+	margin:0px;padding:0px;
+	width:100%;
+	border:1px solid #3178CE;
+	
+	-moz-border-radius-bottomleft:0px;
+	-webkit-border-bottom-left-radius:0px;
+	border-bottom-left-radius:0px;
+	
+	-moz-border-radius-bottomright:0px;
+	-webkit-border-bottom-right-radius:0px;
+	border-bottom-right-radius:0px;
+	
+	-moz-border-radius-topright:0px;
+	-webkit-border-top-right-radius:0px;
+	border-top-right-radius:0px;
+	
+	-moz-border-radius-topleft:0px;
+	-webkit-border-top-left-radius:0px;
+	border-top-left-radius:0px;
+}
+.academytable02 a { color:#438AD8; font-weight:bold; }
+
+.academytable02 table{
+	width:100%;
+	height:100%;
+	margin:0px;padding:0px;
+}.academytable02 tr:last-child td:last-child {
+	-moz-border-radius-bottomright:0px;
+	-webkit-border-bottom-right-radius:0px;
+	border-bottom-right-radius:0px;
+}
+.academytable02 table tr:first-child td:first-child {
+	-moz-border-radius-topleft:0px;
+	-webkit-border-top-left-radius:0px;
+	border-top-left-radius:0px;
+}
+.academytable02 table tr:first-child td:last-child {
+	-moz-border-radius-topright:0px;
+	-webkit-border-top-right-radius:0px;
+	border-top-right-radius:0px;
+}.academytable02 tr:last-child td:first-child{
+	-moz-border-radius-bottomleft:0px;
+	-webkit-border-bottom-left-radius:0px;
+	border-bottom-left-radius:0px;
+}
+
+.academytable02 td:first-child{
+
+}
+
+.academytable02 tr:nth-child(odd){ background-color:#F2F2F2; }
+.academytable02 tr:nth-child(even)    { background-color:#ffffff; }.academytable02 td{
+	vertical-align:middle;
+	
+	
+	border:1px solid #c4c4c4;
+	border-width:0px 1px 1px 0px;
+	text-align:left;
+	padding:7px;
+	font-size:10px;
+	font-family:Arial;
+	font-weight:normal;
+	color:#000000;
+}.academytable02 tr:last-child td{
+	border-width:0px 1px 0px 0px;
+}.academytable02 tr td:last-child{
+	border-width:0px 0px 1px 0px;
+}.academytable02 tr:last-child td:last-child{
+	border-width:0px 0px 0px 0px;
+}
+.academytable02 tr:first-child td{
+
+	background-color:#78bbe2;
+	border:0px solid #c4c4c4;
+	text-align:center;
+	border-width:0px 0px 1px 1px;
+	font-size:14px;
+	font-family:Arial;
+	font-weight:bold;
+	color:#ffffff;
+}
+
+.academytable02 tr:first-child td:first-child{
+	border-width:0px 0px 1px 0px;
+}
+.academytable02 tr:first-child td:last-child{
+	border-width:0px 0px 1px 1px;
+}
+
