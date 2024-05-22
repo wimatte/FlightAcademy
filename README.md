@@ -4,7 +4,7 @@ A PhpVMS add-on to create a Training Academy
 INSTALLATION:
 -------------
 
-This momdule is NOT free and the code is provided only as a template examples.
+This module is NOT free and the code included is provided only as a templated example.
 One or more SQL files are needed to make this function properly but NOT provided.
 
 If you plan to use this add-on please contact me privately.
